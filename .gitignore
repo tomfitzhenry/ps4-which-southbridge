@@ -1,0 +1,4 @@
+*.bin
+*.elf
+src/*.o
+result
